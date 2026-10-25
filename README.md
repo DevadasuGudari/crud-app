@@ -83,7 +83,3 @@ Data is stored in React state only, so it **resets when you refresh** the page.
 - **Delete confirmation**: ask before deleting.
 - **API connection**: use json-server or axios.
 - **localStorage**: keep data after refresh.
-
-## Author
-
-Bhanusri Manukonda
